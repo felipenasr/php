@@ -1,5 +1,7 @@
 <?php
-	
+	//concatenando 
+
+
 	$nome = "Felipe";
 
 	// = é o operador de atribuição	

@@ -1,5 +1,9 @@
 <?php 
-	$a = 30;
+
+	//comparações
+	
+
+	$a = 55.0;
 
 	$b = 55;
 
@@ -12,7 +16,22 @@
 
 	echo "<br>";
 
-	var_dump($a <= $b);
+	var_dump($a == $b);
+
+	echo "<br>";
+
+	var_dump($a === $b);
+
+	echo "<br>";
+
+	var_dump($a != $b);
+
+	echo "<br>";
+
+	var_dump($a !== $b);
+
+	echo "<br>";
+
 
 
 

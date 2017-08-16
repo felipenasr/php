@@ -1,5 +1,5 @@
 <?php
-	
+	//somando nele mesmo
 	$valorTotal = 0;
 
 	$valorTotal += 100;
