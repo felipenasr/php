@@ -1,0 +1,10 @@
+{
+    "name": "felipe/composer",
+    "authors": [
+        {
+            "name": "felipenasr",
+            "email": "felipenriccitrab@gmail.com"
+        }
+    ],
+    "require": {}
+}
